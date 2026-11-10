@@ -10,6 +10,7 @@
 - **Задача:** регрессия
 - **Целевая переменная:** `Rented Bike Count`
 - **Исходный файл:** `data/raw/SeoulBikeData.csv`
+- **Очищенные данные:** `data/processed/SeoulBikeData_clean.csv`
 
 **Источник:** [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/560/seoul+bike+sharing+demand) (CC BY 4.0).
 
